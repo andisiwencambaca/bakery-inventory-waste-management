@@ -23,12 +23,12 @@ The analysis addresses the following questions:
 
 ## Tools & Technologies
 
-- **Python:** Data analysis and manipulation
-- **Pandas:** Data aggregation and analysis
-- **NumPy:** Numerical operations
-- **Matplotlib:** Data visualisation
-- **Seaborn:** Statistical visualisation
-- **Jupyter Notebook:** Analysis and documentation
+- Python: Data analysis and manipulation
+- Pandas: Data aggregation and analysis
+- NumPy: Numerical operations
+- Matplotlib: Data visualisation
+- Seaborn: Statistical visualisation
+- Jupyter Notebook: Analysis and documentation
 
 ## Analytical Approach
 
@@ -79,12 +79,12 @@ Visualisations include:
 ### Overall Inventory Performance
 
 - 81,563 units were recorded as produced, of which 58,867 were sold and 22,696 remained unsold.
-- Approximately **27.8% of recorded production remained unsold**.
+- Approximately 27.8% of recorded production remained unsold.
 - The typical record had one unsold unit. Approximately 85% of unsold units were single-unit leftovers, suggesting that unsold inventory is widespread rather than concentrated in a small number of large overproduction events.
 
 ### Product & Category Performance
 
-- Category is the strongest differentiator in pooled waste rates, ranging from **17.81% for Savoury Bakery to 39.13% for Cakes**.
+- Category is the strongest differentiator in pooled waste rates, ranging from 17.81% for Savoury Bakery to 39.13% for Cakes.
 - Peanut Butter (45.66%), Jam (43.67%), Butterscotch Cake (43.58%), Honey (43.21%) and Pineapple Cake (43.00%) have the highest pooled product waste rates.
 - Chocolate Cake has the largest absolute unsold quantity among the ten highest-waste products, with 623 unsold units.
 - Indian Bakery accounts for the highest number of unsold units (5,485), reflecting its larger production volume.
